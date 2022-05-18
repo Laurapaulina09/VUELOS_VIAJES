@@ -1,0 +1,20 @@
+{
+  "name": "VIAJES",
+  "version": "1.0.0",
+  "description": "Proyecto PROG WEB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "github:mysqljs/mysql"
+  },
+  "devDependencies": {
+    "express-reload": "^1.2.0",
+    "reload": "^3.2.0"
+  }
+}
